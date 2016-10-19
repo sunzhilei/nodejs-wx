@@ -18,9 +18,15 @@ http://localhost:8000/static/page/index.html
 
 =====================================
 目录说明
+
 node_modules		依赖模块本地文件
+
 ctrl				路由程序（后期会考虑分离逻辑部分）
+
 static				静态文件
+
 app.js				node程序入口文件
+
 package.json		node配置文件
+
 webpack.config.js	webpack配置
